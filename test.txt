@@ -1,1 +1,2 @@
 Statement 1: This is test file to see how git works
+Statement 2: This is second line for second commit
