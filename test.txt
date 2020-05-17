@@ -20,3 +20,4 @@ Statement 11: line 11 from master, locally: to test push when master changed
 Statement 12: line 12 from master, locally
 
 Statement 12: line 12 directly from github, master
+Statement 13: line 13 directly from github, master
