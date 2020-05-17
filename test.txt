@@ -14,3 +14,4 @@ Statement 9: line 9 directly from github: to test pull with merge
 Statement 10: line 10 directly from github: to test pull with merge
 Statement 11: line 11 directly from github, master: to test push when master changed
 
+Statement 10: line 10 from master, locally: to test pull with merge
