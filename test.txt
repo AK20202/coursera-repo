@@ -4,6 +4,8 @@ Statement 3a: this is the third line but in other branch
 Statment 4master: this is my forth statment
 Stetement 5: this is line 5 for master, created from github directly
 Statement 6: this is line 6 for master added directly from github
+Statement 5: this is line 5 in bracnh_for_first_commit
+Statement 6: this is line 6 in bracnh_for_first_commit
 
 Statement 7: line 7 from master locally, extra space between 6 and 7
 Statement 8: line 8 from master, locally
