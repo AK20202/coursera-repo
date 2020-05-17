@@ -34,3 +34,4 @@ Statement 18: line 18 from master, locally
 
 Statement 18: line 18 local, F2_emulation_branch_v2
 Statement 19: line 19 local, F3_emulation_branch_v2
+Statement 20: line 20 from master, locally
